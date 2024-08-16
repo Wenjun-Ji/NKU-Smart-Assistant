@@ -21,8 +21,18 @@
 
 > 本仓库为NKU-AI-Assistant项目的前端部分，如您想要使用我们的仓库为前端模板，您可以按照以下步骤在本地运行。
 
-1. 在项目根目录下 安装依赖：pnpm install 随后启动 pnpm dev
- 
+```bash
+git clone
+```
+
+```bash
+pnpm install
+```
+
+```bash
+pnpm dev
+```
+
 > 如您也想使用FastAPI封装您自己的机器人，您可以替换 `lib/chat/action.ts`中submitUserMessage函数中请求的地址
 
 ## Powered by
