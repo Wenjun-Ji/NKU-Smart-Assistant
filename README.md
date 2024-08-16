@@ -21,14 +21,16 @@
 
 > 本仓库为NKU-AI-Assistant项目的前端部分，如您想要使用我们的仓库为前端模板，您可以按照以下步骤在本地运行。
 
+1. Cloning the repository the local machine
 ```bash
 git clone
+cd NKU-Smart-Assistant
 ```
-
+2. Installing the dependencies.
 ```bash
 pnpm install
 ```
-
+3. Running the application.
 ```bash
 pnpm dev
 ```
