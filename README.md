@@ -42,6 +42,10 @@ pnpm dev
 
 > 如您也想使用FastAPI封装您自己的机器人，您可以替换 `lib/chat/action.ts`中submitUserMessage函数中请求的地址
 
+## Backend
+
+后端部分代码请参考另一仓库[NKU-Smart-Assitant-API](https://github.com/Wenjun-Ji/NKU-Smart-Assitant-API)
+
 ## Powered by
 
 在此非常感谢[ai-chatbot](https://github.com/vercel/ai-chatbot)这个项目🥰🥰🥰，我们的前端是以该项目为基础的。
