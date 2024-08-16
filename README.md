@@ -2,6 +2,11 @@
 
 南开大学智能小助手是你的校园生活好帮手。无论是学业上的问题，还是生活中的琐事，小助手都能为你提供贴心的帮助，他就像是一位热心的学长或学姐。
 
+![image](https://github.com/user-attachments/assets/22290420-9167-4a14-83e6-5517db24d673)
+![image](https://github.com/user-attachments/assets/165ccf84-41ef-4288-811a-e340951254d7)
+![image](https://github.com/user-attachments/assets/d69ffb81-519d-4291-a193-040c5b6156a6)
+
+
 ## Features
 
 - [LangChain](https://www.langchain.com/) The largest community building the future of LLM apps
