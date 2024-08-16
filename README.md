@@ -18,5 +18,5 @@
 - [NextAuth.js](https://github.com/nextauthjs/next-auth) for authentication
 
 ## 本地运行
-### 1、在项目根目录下 安装依赖：pnpm install 随后启动 pnpm dev
+1. 在项目根目录下 安装依赖：pnpm install 随后启动 pnpm dev
  
