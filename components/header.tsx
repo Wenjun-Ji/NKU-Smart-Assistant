@@ -63,7 +63,7 @@ export function Header() {
         <Button asChild size="sm" variant="ghost">
           <a
             target="_blank"
-            href="https://github.com/xiemol/NKU-AI-Assistant"
+            href="https://github.com/Wenjun-Ji/NKU-Smart-Assistant/"
             rel="noopener noreferrer"
           >
             <IconGitHub />
